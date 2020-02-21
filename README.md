@@ -1,5 +1,5 @@
 # Portfolio-Part-II-Bootstrap
-Landing Page Portfolio dengan Bootstrap 4 +.
+Landing Page Portfolio dengan Bootstrap 4.4.
 
 ## Not Bad 
  Ini hasil latihan ke tiga, see you next project gengs :-)
